@@ -1,2 +1,1 @@
-Hello, Git!
-I'm hungry.
+I'm very hungry.
